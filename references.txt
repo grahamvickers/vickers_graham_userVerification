@@ -1,0 +1,7 @@
+Research links:
+
+https://stackoverflow.com/questions/23198612/redirect-page-when-user-is-verified
+
+http://codewithawa.com/posts/user-registration-and-email-verification-php-and-mysql
+
+https://www.php.net/manual/en/language.operators.comparison.php
